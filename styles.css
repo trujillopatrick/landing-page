@@ -1,0 +1,39 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Skranji&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(31, 41, 54); */
+}
+
+li, a {
+    font-family: 'Skranji', cursive, sans-serif;
+    font-weight: 150;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: rgb(31, 41, 54);
+}
+
+.logo {
+    color: rgb(255, 255, 255);
+    font-family: 'Kablamo', cursive;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.nav_links, a {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
