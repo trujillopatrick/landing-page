@@ -79,11 +79,17 @@ h2 {
     margin-bottom: 25px;
 }
 
+.images img {
+    border-radius: 25%;
+}
 
-
-
-
-
-
+.section_3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(223, 225, 230);
+    padding: 100px; 
+}
 
 
