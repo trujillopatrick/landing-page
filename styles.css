@@ -92,4 +92,13 @@ h2 {
     padding: 100px; 
 }
 
-
+.section_4 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: rgb(91, 132, 240);
+    color: white;
+    padding: 25px;
+    margin: 100px 500px 100px 500px;
+    border-radius: 5px;
+}
